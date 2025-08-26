@@ -1,0 +1,5 @@
+{
+  "name": "Reverse Prompt Generator",
+  "description": "Upload an image and this application will use AI to generate a detailed, descriptive text prompt that could be used to create a similar image. Perfect for artists and creators looking for inspiration.",
+  "requestFramePermissions": []
+}
